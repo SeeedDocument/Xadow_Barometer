@@ -12,6 +12,8 @@ sku: 103040001
 
 The module can measure the air pressure and temperature of the current environment, and then you can convert this signal to information of altitude. If you are planning to use Xadow to do a wearable device and measure the altitude when you climb the mountain, then the module will be your perfect choice.
 
+[![](https://github.com/SeeedDocument/Seeed-WiKi/raw/master/docs/images/300px-Get_One_Now_Banner-ragular.png)](https://www.seeedstudio.com/Xadow-Barometer-p-1522.html)
+
 ## Specification
 ---
 - Working Voltage: 1.8 ~ 3.3v
